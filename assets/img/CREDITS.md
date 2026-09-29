@@ -1,0 +1,11 @@
+# Photo credits (Pexels)
+- hero/hero.jpg — Alexander Mass
+- rooms/doppler.jpg — Yasser Hernandez
+- rooms/laser.jpg — Anna Shvets
+- rooms/surgery.jpg — Anna Shvets
+- rooms/consult.jpg — Thirdman
+- rooms/therapy.jpg — Juan Manuel Montejano Lopez
+- rooms/diag.jpg — MART  PRODUCTION
+- infra/interior.jpg — cottonbro studio
+- infra/detail.jpg — Stéf -b.
+- infra/doc.jpg — Angel  Moranchel
